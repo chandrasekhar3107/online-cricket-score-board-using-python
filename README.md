@@ -1,1 +1,1 @@
-# online-cricket-score-board-usiny-python
+# online-cricket-score-board-using-python
